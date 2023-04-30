@@ -1,0 +1,472 @@
+body{
+    position: relative;
+    background: #C8EEE3;
+
+    margin: 0%;
+}
+a{
+text-decoration: none;
+}
+.block_1{
+    position: absolute;
+    width: 1114px;
+    height: 421px;
+    left: 163px;
+    top: 97px;
+}
+.all_hi{
+    position: absolute;
+    left: 0%;
+    right: 58.69%;
+    top: 0%;
+    bottom: 13.23%;
+}
+.hi{
+    position: absolute;
+    left: -12.83%;
+    right: -13.76%;
+    top: -50.74%;
+    bottom: 14.65%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 160px;
+    line-height: 185px;
+    text-align: center;
+    
+    color: #608F81;
+}
+.hi_1{
+    position: absolute;
+    left: -2.61%;
+    right: -3.75%;
+    top: 85.35%;
+    bottom: -2.6%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    
+    color: #608F81;
+}
+.links{
+    position: absolute;
+    left: 61.1%;
+    right: 0.03%;
+    top: 0%;
+    bottom: 0%;
+}
+.links_1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 12%;
+    bottom: 0%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.links_2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 42%;
+    bottom: 0%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.links_3{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 72%;
+    bottom: 0%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_2{
+    position: absolute;
+    width: 1200px;
+    height: 922px;
+    left: -21px;
+    top: 675px;
+}
+.block_2_img{
+    position: static;
+    left: 0;
+    right: 0%;
+    top: 0%;
+    bottom: 0;
+
+    margin: 0%;
+}
+.block_2_svg{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    
+}
+.block_2_FAQS{
+    position: absolute;
+    left: 40%;
+    right: 0%;
+    top: 2.5%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 0px 65px;
+}
+.section_FAQS{
+    position: absolute;
+    left: 17%;
+    right: 0.23%;
+    top: -3%;
+    bottom: 43.16%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_2_FAQS_1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 15%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 65px 0px;
+}
+.block_2_FAQSS_1{
+    position: absolute;
+    left: 10%;
+    right: 0%;
+    top: 15%;
+    bottom: 0%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_2_FAQS_2{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 40%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 65px 0px;
+}
+.block_2_FAQSS_2{
+    position: absolute;
+    left: 5%;
+    right: 0%;
+    top: 40%;
+    bottom: 26%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_2_FAQQS_1{
+    position: absolute;
+    left: 48%;
+    right: 41%;
+    top: 20%;
+    bottom: 74%;
+    
+    background: solid #269271;
+    border-radius: 100px;
+}
+.block_2_FAQQS_2{
+    position: absolute;
+    left: 48%;
+    right: 41%;
+    top: 45%;
+    bottom: 39%;
+    
+    background: solid #269271;
+    border-radius: 100px;
+}
+.block_2_FAQQS_3{
+    position: absolute;
+    left: 63%;
+    right: 0%;
+    top: 15%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 0px 65px;
+}
+.block_2_FAQSS_3{
+    position: absolute;
+    left: 70%;
+    right: 0%;
+    top: 10%;
+    bottom: 43.16%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_2_FAQQS_4{
+    position: absolute;
+    left: 63%;
+    right: 0%;
+    top: 45%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 0px 65px;
+}
+.block_2_FAQSS_4{
+    position: absolute;
+    left: 68%;
+    right: 0%;
+    top: 41%;
+    bottom: 43.16%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_3{
+    position: absolute;
+    width: 777px;
+    height: 568px;
+    left: 326px;
+    top: 1561px;
+}
+.block_3_svg_1{
+    position: absolute;
+    left: 20%;
+    right: 0.92%;
+    top: 0%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 0px 65px;
+}
+.block_3_ABOUT_ME_1{
+    position: absolute;
+    left: -5%;
+    right: 0%;
+    top: -10%;
+    bottom: 3.16%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_3_svg_2{
+    position: absolute;
+    left: -10%;
+    right: -1.58%;
+    top: 50%;
+    bottom: 19.45%;
+    
+    background: #608F81;
+    border-radius: 65px 0px;
+}
+.block_3_ABOUT_ME_2{
+    position: absolute;
+    left: 0.26%;
+    right: -0.26%;
+    top: 50%;
+    bottom: 31.12%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_4{
+    position: absolute;
+    width: 1200px;
+    height: 1700px;
+    left: -21px;
+    top: 660px;
+
+    margin: 0%;
+}
+.block_4_img{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 100.35%;
+    bottom: 0%;
+    display: inline;
+}
+.block_4_svg_1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 100%;
+    bottom: 0%;
+    display: inline;
+}
+.block_4_svg_2{
+    position: absolute;
+    left: 37%;
+    right: 0.92%;
+    top: 110%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 0px 65px;
+}
+.block_4_CONTACT_ME_1{
+    position: absolute;
+    left: 10%;
+    right: 0%;
+    top: 107%;
+    bottom: 3.16%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 74px;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+.block_4_CONTACT_ME_2{
+    position: absolute;
+    left: 12%;
+    right: 0.33%;
+    top: 124%;
+    bottom: 26.32%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_4_CONTACT_ME_2_2{
+    position: absolute;
+    left: 23%;
+    right: 0.33%;
+    top: 124%;
+    bottom: 26.32%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_4_CONTACT_ME_3{
+    position: absolute;
+    left: 12%;
+    right: 0.33%;
+    top: 138%;
+    bottom: 26.32%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_4_CONTACT_ME_3_3{
+    position: absolute;
+    left: 14%;
+    right: 0.33%;
+    top: 138%;
+    bottom: 26.32%;
+    
+    font-family: 'Gentium Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 46px;
+    
+    color: #FFFFFF;
+}
+.block_4_svg_3{
+    position: absolute;
+    left: 10%;
+    right: 0%;
+    top: 125%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 65px 0px;   
+}
+.block_4_svg_4{
+    position: absolute;
+    left: 10%;
+    right: 0%;
+    top: 139%;
+    bottom: 0%;
+    
+    background: #608F81;
+    border-radius: 65px 0px;
+}
